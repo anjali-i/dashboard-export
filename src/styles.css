@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: black;
+}
+
+.Active {
+  color: white;
+  /* opacity: 1; */
+  border: 10px solid rgb(56, 56, 56);
+  background: rgb(56, 56, 56);
+}
